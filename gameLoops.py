@@ -1,4 +1,5 @@
 # tuts https://www.youtube.com/watch?v=Uo2p3znYhig
+# https://www.youtube.com/watch?v=-8n91btt5d8 game
 #1: for loop nuttig om
     # door lists te bladeren
     # even en oneven getallen te printen
