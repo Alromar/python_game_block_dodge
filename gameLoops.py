@@ -160,4 +160,5 @@ endRange =int(input('What is the ending range? '))
 # 6: method callen function en printen
 print('Generate number list:{0}'.format(randomNumberList(numbers, startRange, endRange)))
 
-
+# https://www.youtube.com/watch?v=pt3k8pc8f0A
+print(random.random())
